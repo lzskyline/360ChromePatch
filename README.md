@@ -1,2 +1,0 @@
-# HackThe360Chrome
-#LzSkyline
